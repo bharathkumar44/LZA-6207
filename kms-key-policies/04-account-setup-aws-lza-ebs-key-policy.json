@@ -6,7 +6,7 @@
             "Sid": "Enable IAM User Permissions",
             "Effect": "Allow",
             "Principal": {
-                "AWS": "arn:aws:iam::305903536655:root"
+                "AWS": "arn:aws:iam::107970446207:root"
             },
             "Action": "kms:*",
             "Resource": "*"
@@ -16,7 +16,7 @@
             "Effect": "Allow",
             "Principal": {
                 "AWS": [
-                    "arn:aws:iam::305903536655:root"
+                    "arn:aws:iam::107970446207:root"
                 ]
             },
             "Action": [
@@ -42,7 +42,7 @@
             "Effect": "Allow",
             "Principal": {
                 "AWS": [
-                    "arn:aws:iam::305903536655:root"
+                    "arn:aws:iam::107970446207:root"
                 ]
             },
             "Action": [
@@ -59,7 +59,7 @@
             "Effect": "Allow",
             "Principal": {
                 "AWS": [
-                    "arn:aws:iam::305903536655:root"
+                    "arn:aws:iam::107970446207:root"
                 ]
             },
             "Action": [
