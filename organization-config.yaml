@@ -1,7 +1,7 @@
 enable: true
 organizationalUnits:
   - name: Security
-  - name: AFT management account
+  - name: Infrastructure
   - name: Sandbox
     # ignore: true
 serviceControlPolicies: []
