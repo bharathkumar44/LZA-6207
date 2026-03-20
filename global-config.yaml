@@ -13,7 +13,7 @@ snsTopics:
   topics:
     - name: Security
       emailAddresses:
-        - psanthg+aftaccnt@amazon.com
+        - bpasupul+2026@amazon.com
 terminationProtection: true
 enableOptInRegions: false
 controlTower:
