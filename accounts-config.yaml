@@ -23,14 +23,14 @@ mandatoryAccounts:
     email: bpasupul+LZAconfig@amazon.com
     organizationalUnit: Security
     warm: false
-  - name: aft-main
-    description: >-
-      The management (primary) account. Do not change the name field for this
-      mandatory account. Note, the account name key does not need to match the
-      AWS account name.
-    email: psanthg+aftact@amazon.com
-    organizationalUnit: Security
-    warm: false
+  # - name: aft-main
+  #   description: >-
+  #     The management (primary) account. Do not change the name field for this
+  #     mandatory account. Note, the account name key does not need to match the
+  #     AWS account name.
+  #   email: psanthg+aftact@amazon.com
+  #   organizationalUnit: Security
+  #   warm: false
 #   - name: adminavm
 #     description: >-
 #       The management (primary) account. Do not change the name field for this
