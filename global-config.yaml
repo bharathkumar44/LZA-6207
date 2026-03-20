@@ -1,6 +1,6 @@
-homeRegion: us-east-1
+homeRegion: us-west-2
 enabledRegions:
-  - us-east-1
+  - us-west-2
 managementAccountAccessRole: AWSControlTowerExecution
 cloudwatchLogRetentionInDays: 3653
 cdkOptions:
